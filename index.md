@@ -1,4 +1,4 @@
-## Laura Melissa Cruz Castro Ph.D. (c)##
+## Laura Melissa Cruz Castro Ph.D. (c) ##
 
 You can use the [editor on GitHub](https://github.com/lcruzcas/LauraCruz.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
